@@ -6,9 +6,9 @@ url: 'https://aistat.org'
 baseurl: 
 
 # Title of the Site
-title: Surajit Ray
+title: AI Statistic Consulting
 # Description of the Site
-description: Professor of Statistics
+description: Surajit Ray
 # University Name
 university: The University of Glasgow
 # URL of Image of the Site
@@ -19,7 +19,7 @@ site-keywords: Medical Imaging, Mixture models, Statistics, Functional Data Anal
 favicon-url: 
 
 # URL of the Image of Custom Hero Image (i.e., the image in the background of the very first section of the Homepage)
-heroimage: https://www.gla.ac.uk/media/Media_627169_smxx.jpg
+heroimage: /assets/images/consulting.jpg
 
 # Social Media and Contact
 # If you don't want to use any icon, you can leave them blank.

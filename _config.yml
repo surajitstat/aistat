@@ -6,7 +6,8 @@ url: 'https://aistat.org'
 baseurl: 
 
 # Title of the Site
-title: AISTAT - Segmentation You Can Trust: Speed, Accuracy, and Uncertainty Awareness
+title: AISTAT - Segmentation You Can Trust
+#: Speed, Accuracy, and Uncertainty Awareness
 # Description of the Site
 description: Surajit Ray
 # University Name

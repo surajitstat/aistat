@@ -6,11 +6,11 @@ url: 'https://aistat.org'
 baseurl: 
 
 # Title of the Site
-title: AI Statistic Consulting
+title: AISTAT - Segmentation You Can Trust: Speed, Accuracy, and Uncertainty Awareness
 # Description of the Site
 description: Surajit Ray
 # University Name
-university: The University of Glasgow
+university: Spinout from the University of Glasgow
 # URL of Image of the Site
 site-image: /WhatATheme/assets/images/meta.jpg
 # Keywords of the Site
@@ -41,7 +41,7 @@ author-name: Surajit Ray
 # URL for the Image of the Author
 author-image: https://www.gla.ac.uk/media/Media_633760_smxx.jpg
 # 60 Words About the Author
-author-about: At our AI-Powered Statistical Consulting Solutions, we blend the art and science of statistics with the latest advancements in AI technology to offer you a comprehensive suite of data analysis services. Whether you are in the field of academia, healthcare, finance, marketing, or any industry where data plays a pivotal role, we have the expertise and tools to assist you.
+author-about: AISTAT is a next-generation tumor segmentation tool that combines deep learning with advanced statistical contours to deliver fast, consistent results. Its unique built-in uncertainty quantification provides a clear traffic-light confidence map, giving clinicians trust and control. Simple, intuitive, and reliable — exactly what busy oncology teams have been waiting for.
 
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
 author-url: https://surajitray.org

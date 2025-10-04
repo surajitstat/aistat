@@ -1,22 +1,22 @@
-- name: Medical Imaging
+- name: NHSGGC
   link: research/medical-imaging
   image: https://media.istockphoto.com/photos/doctor-brain-mri-picture-id862563174?k=20&m=862563174&s=612x612&w=0&h=v2xubyZ1jSG0XpNS9nME2Jt6UciQI9eCnmfAvIg-mmQ=
-  description: Statistical imaging together with other machine learning techniques are the epitome of digitalizing healthcare and are culminating towards developing innovative tools for automatic analysis of three-dimensional radiological images — PET (Positron Emission Tomography) images [1]. 
+  description: Data etc. 
   
   
-- name: Vaccine Effectiveness
+- name: Beatson
   link: research/vaccine-efficacy
   image: https://cdn.pixabay.com/photo/2020/06/12/21/06/forced-vaccination-5291869_1280.jpg
-  description: Statistical analyses of one of the earliest study of vaccine effectiveness against Omicron SARS-CoV-2 infection in the recent Nature Microbiology paper “SARS-CoV-2 Omicron is an immune escape variant with an altered cell entry pathway
+  description: David Colville
     
   
-- name: Functional Data Analysis PCA
+- name: NPIP
   link: research/fda
   image: https://d3i71xaburhd42.cloudfront.net/2112591f94282df8df5b2d97f1fd4e742966a5f7/4-Figure2-1.png
   description: Statistical properties of spatially correlated sparse and dense functional data. 
   
   
-- name: Mixture Model and clustering
+- name: DHVL
   link: mixture
   image: assets/images/mat3.gif
   description: Understanding the the topography of multivariate distributions and nonparametric modal clustering  

@@ -1,8 +1,8 @@
 ---
-title: Medical Image Segmentation 
+title: AISTAT: Medical Image Segmentation
 layout: post
 post-image: "https://media.istockphoto.com/photos/doctor-brain-mri-picture-id862563174?k=20&m=862563174&s=612x612&w=0&h=v2xubyZ1jSG0XpNS9nME2Jt6UciQI9eCnmfAvIg-mmQ="
-description: Using Statistical Leaarning together with Machine Learning and AI to develope a framework for contouring medical images
+description: Using Statistical Learning together with Machine Learning and AI to develop a framework for contouring medical images
 tags:
 - medical
 - imaging
@@ -10,11 +10,13 @@ tags:
 - CT
 - AI
 - Contouring
+- Uncertainty Quantification
 ---
 
- 
-> The primary goal for developing the new statistical framework is to mimic the human perception for tumour delineation and marry it with all the advantages of an analytic method using modern-day computing environment. Our proposed framework will explicitly use statistical models which can accommodate the 2D and 3D spatial relationships in medical images along with their natural ability to fuse images from different modalities (e.g. CT/MRI) and provide complementary information for image segmentation tasks. This project has six main aims:
 
+> AISTAT combines a pre-trained U-Net deep learning model with a statistical contour-based framework, enabling semi-automated segmentation that is both interpretable and clinically actionable. Unlike standard pixel-based methods, it provides contour-level outputs suitable for radiotherapy (RT) including intensity modulated (IMRT) and includes a traffic light-style uncertainty measure, supporting more informed clinical decisions.
+
+The tool has already been trained on publicly available AUTOPET dataset and currently being tested on 1,400 non-small cell lung cancer and 60 lymphoma patients. In this GKEF project we will focus exclusively on H&N cancers, using both the publicly available HECKTOR dataset and a real-world set of 200 patients from NHSGGC, including radiotherapy plans to provide a demonstration of clinical utility on real-world tumours that will in turn provide a platform for further investment and development.
 
 
 
@@ -24,19 +26,14 @@ tags:
 
 
 ## Goal
-> Combine Statistical Learing with AI to provide a new framework for probabilistic contouring
+> Combine Statistical Learing with AI to provide a new framework for probabilistic contouring and Uncertainty Quantification
 
 ## Researchers
 
 {% include people Name='Wenhui;Yalei' %}
 
-## External Collaborators
-- [Professor Carola-Bibiane Schönlieb ](https://www.damtp.cam.ac.uk/user/cbs31/Home.html) University of Cambridge 
-- [Professor Emanuele Trucco](https://www.dundee.ac.uk/people/emanuele-trucco) University of Dundee
-- [Dr. Raj Jena](https://www.oncology.cam.ac.uk/research/our-research/jena) University of Cambridge 
-- [Dr. Xiaohao Cai](https://xiaohaocai.netlify.app/) University of Southampton
 
-## Related links
+## Partners
 
 <div class="card-footer" markdown=1 >
 
@@ -56,10 +53,10 @@ tags:
 
 
 <p class="card-footer-item nobr" markdown=1>
-[![](https://www.nhsggc.scot/wp-content/uploads/2021/08/NHSGGCRGB.jpg) 
+[![](https://www.nhsggc.scot/wp-content/uploads/2021/08/NHSGGCRGB.jpg)
 Nuclear Medicine
 
-](https://www.nhsggc.scot/) 
+](https://www.nhsggc.scot/)
 </p>
 
 
@@ -70,8 +67,8 @@ Nuclear Medicine
 
 
 
-## Related publications 
+## Related publications
 {% include gscholar include_link=true style="surajit" title_search="deep; segmentation" %}
 
-<h2> Preprints and conference proceedings </h2> 
+<h2> Preprints and conference proceedings </h2>
 {% include enlighten include_link=true style="surajit" title_search="PET; contour" %}

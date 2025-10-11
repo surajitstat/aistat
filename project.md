@@ -1,5 +1,5 @@
 ---
-layout: Partners
-title: Projects
+layout: projects
+title: Partners
 ---
 

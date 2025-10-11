@@ -5,6 +5,10 @@ layout: pageleft
 
 
 
+<div class="grants" markdown=1>
+
+
+
 <p class="card-footer-item " markdown=1>
 [Research Assistant Associate at University of Glasgow](https://www.jobs.ac.uk/job/DOK776/research-assistant-associate)
 
@@ -24,6 +28,6 @@ Informal query can be made by contacting directly Professor Surajit Ray surajit.
 
 Closing date: 10 September 2025  
 
-
+</div>
 
 

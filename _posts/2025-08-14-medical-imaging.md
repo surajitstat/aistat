@@ -1,7 +1,7 @@
 ---
 title: AISTAT: Medical Image Segmentation
 layout: post
-post-image: "/assets/images/medical-imaging.jpg"
+post-image: "../assets/images/medical-imaging.jpg"
 description: Using Statistical Learning together with Machine Learning and AI to develop a framework for contouring medical images
 tags:
 - medical

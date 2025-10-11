@@ -1,7 +1,7 @@
 ---
-title: AISTAT: Medical Image Segmentation
+title: Medical Image Segmentation
 layout: post
-post-image: "https://plus.unsplash.com/premium_photo-1702598479744-f0fefa59d3a2?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=2940"
+post-image: "https://www.nhsggc.scot/wp-content/uploads/Logos/cropped-NHSGGC-logo-1-1.png"
 description: Using Statistical Learning together with Machine Learning and AI to develop a framework for contouring medical images
 tags:
 - medical

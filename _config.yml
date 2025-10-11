@@ -9,9 +9,9 @@ baseurl:
 title: AISTAT - Segmentation You Can Trust
 #: Speed, Accuracy, and Uncertainty Awareness
 # Description of the Site
-description: Surajit Ray
+description: Nuclear Medicine Segmentation tool 
 # University Name
-university: Spinout from the University of Glasgow
+university: A Spinout from the University of Glasgow
 # URL of Image of the Site
 site-image: /WhatATheme/assets/images/meta.jpg
 # Keywords of the Site

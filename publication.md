@@ -5,44 +5,10 @@ layout: pagepub
 
 <div class="container-fluid has-text-centered">
 
-{% capture Years %}
-  {%- for pub in site.data.citations -%}
-    {{ pub.Year }}
-        {%- if forloop.last == false -%},{%- endif -%}
-  {%- endfor -%}
-{% endcapture %}
+## Related publications
+{% include gscholar include_link=true style="surajit" title_search="deep; segmentation" %}
 
-
-
-
-
-{% assign year_list = Years | remove:' ' |split: ',' | uniq | sort | reverse %}
-
-<!--Links to other years -->
-
-{%- for year in year_list  -%}
-<a  href="#{{ year }}"> {{ year  }} </a> | 
-{%- endfor -%}
-<a  href="./publication_cited" > 10 most cited </a>
-<!--Other citations -->
-
+<h2> Preprints and conference proceedings </h2>
+{% include enlighten include_link=true style="surajit" title_search="PET; contour" %}
 
 </div>
-
-
-{% for year in year_list  %}
-<div class="grant">
-
-{%- if forloop.first -%}
-<h2 id="{{ year }}"> {{ year }} </h2>
-{%- else -%}	
-<h2 id="{{ year }}"> {{ year }} <a href="#" style="float: right;">  <i class="fas fa-arrow-up"> </i>
- </a> </h2>  
-
-{%- endif -%}
-
-
-</div>
- {% include gscholar year = year  include_link=true style="surajit"  %}
-
-{% endfor %}

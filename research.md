@@ -1,4 +1,4 @@
 ---
-title: Research
+title: Products
 layout: blog
 ---

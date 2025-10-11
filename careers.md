@@ -5,16 +5,9 @@ layout: pageleft
 
 
 
-<div class="grants" markdown=1>
-##  Current Courses
-{% include teaching.html Name='STATS5056;Predictive;Project;Probability' %}
-</div>
+<h2> Vacancies
+[Research Assistant Associate at University of Glasgow
+](Research Assistant Associate at University of Glasgow
+) 
 
-
-
-
-<div class="grants" markdown=1>
-##  Past Courses
-{% include teaching.html Name='Short;Regression;Math;Principles' %}
-</div>
 

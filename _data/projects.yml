@@ -1,7 +1,7 @@
 - name: NHSGGC
   link: https://www.nhsggc.scot/hospitals-services/main-hospitals/beatson-west-of-scotland-cancer-centre/
   image: https://www.sdpscotland.co.uk/uploads/orgprofile/320b31dd97db06bc05c04634fe2632b9@2x.jpg
-  description: NHS Greater Glasgow and Clyde  
+  description: NHS Greater Glasgow and Clyde
   
   
 - name: Beatson
@@ -11,7 +11,7 @@
     
   
 - name: NPIP
-  link: rhttps://npip.org.uk/
+  link: https://npip.org.uk/
   image: https://npip.org.uk/wp-content/uploads/2023/07/logo.png
   description: NPIP is the UK’s first-of-its-kind national total-body PET imaging platform for drug discovery research.
 

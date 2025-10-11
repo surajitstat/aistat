@@ -1,13 +1,16 @@
 ---
-title: Teaching
+title: Vacancies
 layout: pageleft
 ---
 
 
 
-<h2> Vacancies
+<p class="card-footer-item " markdown=1>
 [Research Assistant Associate at University of Glasgow
 ](Research Assistant Associate at University of Glasgow
 ) 
+<p>
+
+
 
 

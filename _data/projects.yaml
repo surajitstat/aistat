@@ -1,12 +1,13 @@
 - name: NHSGGC
-  link: 
+  link: https://www.nhsggc.scot/
+  image: https://shcoalition.org/wp-content/uploads/2023/04/NHS_Scotland_logo.webp
   description: NHS Greater Glasgow and Clyde
   
   
 - name: Beatson
   link: https://www.beatson.scot.nhs.uk/
   image: https://www.whatsonnetwork.co.uk/uploads/800x600/307a8dd086ea1a4099ddcfd8804c5999.jpg
-  description: The Beatson is an internationally renowned cancer centre and the busiest in the UK in terms of clinical activity and patient numbers as well as being the second largest cancer centre in the UK delivering all of the radiotherapy and much of the chemotherapy to the population of the West of Scotland, with a catchment area of 2.5 million people, which is around 60% of Scotland’s population.
+  description: Beatson West of Scotland Cancer Centre
   
   
   

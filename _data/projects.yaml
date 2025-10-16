@@ -19,7 +19,7 @@
   
 - name: DHVL
   link: https://www.gla.ac.uk/colleges/mvls/livinglab/our-projects/digital-health-validation-lab/
-  image: https://www.gla.ac.uk/colleges/mvls/livinglab/our-projects/digital-health-validation-lab/t4external/sitelogo_1108882_en.png
+  image: 
   description: Digital Health Validation Lab
   
     
@@ -27,11 +27,18 @@
   link: https://www.gla.ac.uk/colleges/mvls/livinglab/
   image: https://www.gla.ac.uk/media/Media_772769_smxx-453x320.jpg
   description: University of Glasgow
+
+- name: CRUK
+  link: https://www.cancerresearchuk.org/
+  image: https://www.cancerresearchuk.org/sites/all/themes/custom/cruk_integrated_campaign/logo.svg
+  description: Cancer Reesarch UK 
+  
+
   
       
 - name: STAC
   link: https://www.stac.ac/
-  image: https://www.stac.ac/wp-content/uploads/2021/07/STAC_Main-Logo.svg
+  image: 
   description: Smart Things Accelerator Centre STAC  
   
   

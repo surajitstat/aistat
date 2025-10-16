@@ -19,7 +19,7 @@
   
 - name: DHVL
   link: https://www.gla.ac.uk/colleges/mvls/livinglab/our-projects/digital-health-validation-lab/
-  image: ../assets/images/dhvl.png
+  image: https://github.com/surajitstat/aistat/raw/b9d352c1f4acd4050989d4fc4c3ffb8685325bd7/assets/images/dhvl.png	
   description: Digital Health Validation Lab
   
     
@@ -30,7 +30,7 @@
 
 - name: CRUK
   link: https://www.cancerresearchuk.org/
-  image: https://www.cancerresearchuk.org/sites/all/themes/custom/cruk_integrated_campaign/logo.svg
+  image: https://github.com/surajitstat/aistat/raw/b9d352c1f4acd4050989d4fc4c3ffb8685325bd7/assets/images/cruk.png
   description: Cancer Reesarch UK 
   
 
@@ -38,7 +38,7 @@
       
 - name: STAC
   link: https://www.stac.ac/
-  image: https://github.com/surajitstat/aistat/blob/b9d352c1f4acd4050989d4fc4c3ffb8685325bd7/assets/images/stac.png
+  image: https://github.com/surajitstat/aistat/raw/b9d352c1f4acd4050989d4fc4c3ffb8685325bd7/assets/images/stac.png
   description: Smart Things Accelerator Centre STAC  
   
   

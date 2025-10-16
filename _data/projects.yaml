@@ -19,7 +19,7 @@
   
 - name: DHVL
   link: https://www.gla.ac.uk/colleges/mvls/livinglab/our-projects/digital-health-validation-lab/
-  image: https://github.com/surajitstat/aistat/blob/b9d352c1f4acd4050989d4fc4c3ffb8685325bd7/assets/images/dhvl.png	
+  image: ../assets/images/dhvl.png
   description: Digital Health Validation Lab
   
     

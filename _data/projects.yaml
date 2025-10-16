@@ -14,3 +14,15 @@
   link: https://www.gla.ac.uk/
   image: https://www.gla.ac.uk/media/Media_434154_smxx.jpg
   description: University of Glasgow
+
+  
+- name: DHVL
+  link: https://www.gla.ac.uk/colleges/mvls/livinglab/our-projects/digital-health-validation-lab/
+  image: https://www.gla.ac.uk/colleges/mvls/livinglab/our-projects/digital-health-validation-lab/t4external/sitelogo_1108882_en.png
+  description: Digital Health Validation Lab
+  
+    
+- name: University of Glasgow
+  link: https://www.gla.ac.uk/colleges/mvls/livinglab/
+  image:https://www.gla.ac.uk/media/Media_772769_smxx-453x320.jpg
+  description: University of Glasgow
